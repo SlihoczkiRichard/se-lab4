@@ -1,0 +1,3 @@
+#Initialize a ship with 1-1 torpedos 0 failure
+GT4500,1,0,1,0
+TORPEDO,ALL # Using ALL command, to fire from both bays

@@ -1,0 +1,3 @@
+#Initialize a ship with 1-1 torpedos with fix 1 (100%) failure
+GT4500,1,1,1,1
+TORPEDO,SINGLE

@@ -1,0 +1,2 @@
+SUCCESS # Initialize ship with 1-1 torpedos
+SUCCESS # Firing 1 torpedo

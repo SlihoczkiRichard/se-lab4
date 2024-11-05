@@ -1,0 +1,4 @@
+#Initialize a ship with two torpedos
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
